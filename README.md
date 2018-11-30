@@ -1,7 +1,4 @@
 # oneindex-embellish
-##MaHua是什么?
-一个在线编辑markdown文档的编辑器
-
 ##oneindex的主题美化
 美化了`oneindex`程序的`nexmoe`主题
 
@@ -30,4 +27,3 @@
 ###联系方式
 
 * 邮件(coolslf#qq.com, 把#换成@)
-
